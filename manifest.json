@@ -1,0 +1,25 @@
+{
+  "name": "MQ-TUTORIAL",
+  "short_name": "MQ-TUTORIAL",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Jayjia的笔记仓库",
+  "icons": [
+    {
+      "src": "cat.svg",
+      "sizes": "48x48",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "cat.svg",
+      "sizes": "100x100",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "cat.svg",
+      "sizes": "200x200",
+      "type": "image/svg+xml"
+    }
+  ]
+}
